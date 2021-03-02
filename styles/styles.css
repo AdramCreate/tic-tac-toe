@@ -1,0 +1,12 @@
+.gameboard {
+}
+
+.gameboard-row {
+    display: flex;
+}
+
+.gameboard-space {
+    border: 1px solid black;
+    text-align: center;
+    padding: 25px;
+}
